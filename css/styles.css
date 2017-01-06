@@ -29,3 +29,24 @@ ul nav {
   list-style-type: none;
   width: 10px;
 }
+.panel1 {
+  background-color: #9dcbe8;
+  border: solid;
+  border-width: thin;
+  border-color: black;
+  padding: 5px;
+  font-size: 18px;
+  font-weight: bolder;
+  color: black;
+}
+
+.panel2 {
+  background-color: #79dd5d;
+  border: solid;
+  border-width: thin;
+  border-color: black;
+  padding: 5px;
+  font-size: 18px;
+  font-weight: bolder;
+  color: black;
+}
