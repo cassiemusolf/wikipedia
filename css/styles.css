@@ -6,4 +6,25 @@
 
 td style; {
   width: 13%;
+  pad 20px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 15px;
+}
+
+img {
+  height: 160px;
+}
+
+.navbar {
+  margin-left: 1px:
+}
+
+ul nav {
+  list-style-type: none;
 }
